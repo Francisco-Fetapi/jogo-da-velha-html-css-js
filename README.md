@@ -9,7 +9,8 @@
 
 Este projeto foi criado em `maio de 2020`, numa época em que eu estava a dar os meus primeiros passos no **mundo do desenvolvimento**. A minha motivação ao fazer esse projeto surgiu depois de eu ter assistido um video onde o **Bill Gates** diz ter criado um **Jogo Da Velha** no inicio da sua jornada como _Programador_.
 
-<img src="./asset3.PNG" />
+![jogo-da-velha2](https://user-images.githubusercontent.com/74926014/180439302-f04553e4-5d42-49dc-9144-a6fb60e52adb.gif)
+
 
 ##
 
